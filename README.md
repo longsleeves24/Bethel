@@ -1,3 +1,3 @@
-Deployed streamlit app link
+Deployed streamlit app link.
 
 https://alexbethel.streamlit.app
