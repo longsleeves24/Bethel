@@ -1,3 +1,5 @@
+WalmartStreamlit Requirements
+
 streamlit
 pandas
 plotly
